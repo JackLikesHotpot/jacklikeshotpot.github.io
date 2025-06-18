@@ -1,15 +1,18 @@
 [
  {
   "username": "JackLikesHotpot",
-  "name": null,
+  "name": "Jack Li",
   "userimg": "https://avatars.githubusercontent.com/u/47116970?v=4",
-  "sort": "updated",
+  "sort": "star",
   "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
-  "linkedin": "xia-jie-jack-li"
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
